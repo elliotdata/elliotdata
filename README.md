@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Elliot
 - Analytics: Statistical Analysis, Machine Learning Models (Supervised and Unsupervised Learning), Feature Engineering, Sentiment Analysis, Data Mining, Data Visualization, Data Wrangling
-- Tools / Languages: MySQL, Python, Tableau, Power BI, Excel, Jupyter Notebook, Trello
+- Tools / Languages: MySQL, Python, Tableau, Power BI, Excel, Jupyter Notebook, Amazon RDS, Trello
 
 - Website - https://paulpagefolio.framer.ai/
 
