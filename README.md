@@ -2,7 +2,7 @@
 - Analytics: Statistical Analysis, Supervised Machine Learning, FeatureEngineering, Sentiment Analysis, DataMining, Data Visualisation, DataWrangling
 - Database: Database Management, Scripting
 - Tools / Languages: MySQL, Python, Tableau, Power BI, Excel, Amazon RDS, Jupyter Notebook, Trello
-- Resume - https://drive.google.com/file/d/1KlPxKbkAhzxGwijprBDvqa-wVt0hR8-i/view?usp=drive_link
+- Resume - https://drive.google.com/file/d/1yJEnhhXOvY0IBGdsmturAYw9RN92X_Il/view?usp=sharing
 - Website - https://paulpagefolio.framer.ai/
 
   
