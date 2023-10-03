@@ -3,8 +3,9 @@
 - Database: Database Management, Scripting
 - Tools / Languages: MySQL, Python, NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow, PyTorch, Keras, Matplotlib, Tableau, Power BI, Excel
 -  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
-- Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
-- Website - paulpagefolio.framer.ai
+
+Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
+Website - paulpagefolio.framer.ai
   
   
 <!---
