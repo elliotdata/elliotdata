@@ -9,7 +9,7 @@
   
 -  Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
   
--  Website - paulpagefolio.framer.ai
+-  Website - https://paulpagefolio.framer.ai
   
   
 <!---
