@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Paul Elliot
-- Analytics: Statistical Analysis, Supervised Machine Learning, FeatureEngineering, Sentiment Analysis, DataMining, Data Visualisation, DataWrangling
+- Analytics: Data Mining, Data Cleaning, Data Wrangling, Data Analysis, Data Visualisation, Data Reporting, Feature Engineering, NLP, Sentiment Analysis, Deep Learning, Predictive Analytics, Time Series Forecasting
 - Database: Database Management, Scripting
-- Tools / Languages: MySQL, Python, Tableau, Power BI, Excel, Amazon RDS, Jupyter Notebook, Trello
+- Tools / Languages: MySQL, Python, NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow, PyTorch, Keras, Matplotlib, Tableau, Power BI, Excel
+-  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
 - Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
 - Website - paulpagefolio.framer.ai
-
+- 
   
 <!---
 elliotdata/elliotdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
