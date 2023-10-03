@@ -5,7 +5,7 @@
 -  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
 - Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
 - Website - paulpagefolio.framer.ai
-- 
+  
   
 <!---
 elliotdata/elliotdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
