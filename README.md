@@ -7,8 +7,6 @@
   
 -  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
   
--  Resume - https://drive.google.com/file/d/1OOCQt5UTCHZKCtuapgq895yVuquVe5BJ/view?usp=sharing
-  
 -  Website - https://paulpagefolio.framer.ai
   
   
