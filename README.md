@@ -6,8 +6,7 @@
 - Tools / Languages: MySQL, Python, NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow, PyTorch, Keras, Matplotlib, Tableau, Power BI, Excel
   
 -  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
-  
--  Website - https://paulpagefolio.framer.ai
+
   
   
 <!---
