@@ -1,11 +1,9 @@
 👋 Hi, I’m Paul Elliot
-- Analytics: Data Mining, Data Cleaning, Data Wrangling, Data Analysis, Data Visualisation, Data Reporting, Feature Engineering, NLP, Sentiment Analysis, Deep Learning, Predictive Analytics, Time Series Forecasting
+- Programming: Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Keras, SQL, R
   
-- Database: Database Management, Scripting
+- Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, k-means, PCA, Association Rule Learning, Casual Impact Analysis
   
-- Tools / Languages: MySQL, Python, NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow, PyTorch, Keras, Matplotlib, Tableau, Power BI, Excel
-  
--  Others: AWS, Amazon RDS, Amazon SageMaker Google Cloud Platform, Linux, GIT
+- Others: Statistics, Github, Data Visualisation, MS Office, Tableau, Jupyter Notebook, AWS, Google Cloud Platform
 
 -  LinkedIn: https://www.linkedin.com/in/paulelliot/
   
