@@ -6,6 +6,7 @@
 - Others: Statistics, Github, Data Visualisation, MS Office, Tableau, Jupyter Notebook, AWS, Google Cloud Platform
 
 -  LinkedIn: https://www.linkedin.com/in/paulelliot/
+-  Portfolio: https://github.com/elliotdata/DataScience_MachineLearning_Portfolio
   
   
 <!---
