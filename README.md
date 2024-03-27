@@ -1,6 +1,5 @@
 👋 Hi, I’m Paul Elliot
--  Data Scientist with active skills in NLP, Computer Vision and Classic Machine Learning.
--  LinkedIn: https://www.linkedin.com/in/paulelliot/
+-  Data Scientist with active skills in Data Science, NLP, Computer Vision and Classic Machine Learning.
 -  Portfolio: https://github.com/elliotdata/DataScience_MachineLearning_Portfolio
   
   
